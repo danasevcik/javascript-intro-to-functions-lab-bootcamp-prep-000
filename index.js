@@ -29,17 +29,3 @@ else if (string === 'I love you, Grandma.') {
   sayHiToGrandma('HELLO')
   sayHiToGrandma('I love you, Grandma.')
 
-function sayHiToGrandma(string) {
-  if (string.toUpperCase() === string) {
-    return "YES INDEED!"
-  }
-}
-sayHiToGrandma('HELLO')
-
- 
-function sayHiToGrandma(string) {
- if (string === 'I love you, Grandma.') {
-   return("I love you, too.")
- }
-}
- sayHiToGrandma('I love you, Grandma.')
